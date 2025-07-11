@@ -1,5 +1,6 @@
 # QPI_Droplet_Analysis
-Copyright (C) 2019, 2020, 2024, 2025 Patrick M. McCall
+Copyright (C) 2019, 2020, 2024, 2025 Patrick M. McCall.
+
 All rights reserved.
 
 Purpose: Extract the shape and refractive index difference of droplets from quantitative phase images (QPI)
