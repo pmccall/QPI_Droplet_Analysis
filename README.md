@@ -1,5 +1,8 @@
 # QPI_Droplet_Analysis
-Extract the shape and refractive index difference of droplets from quantitative phase images (QPI)
+Copyright (C) 2019, 2020, 2024, 2025 Patrick M. McCall
+All rights reserved.
+
+Purpose: Extract the shape and refractive index difference of droplets from quantitative phase images (QPI)
 
 Listing of the code dependencies for the analysis of Quantitative Phase
    Imaging (QPI) images of biomolecular condensates. All code written by Patrick M McCall except:
