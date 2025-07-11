@@ -3,9 +3,12 @@ Extract the shape and refractive index difference of droplets from quantitative 
 
 Listing of the code dependencies for the analysis of Quantitative Phase
    Imaging (QPI) images of biomolecular condensates. Code written by
-   Patrick M McCall except 
+   Patrick M McCall except:
+   
        track.m (Daniel Blair & Eric Dufresne https://site.physics.georgetown.edu/matlab/)
+       
        ametrine.m (Geissbuehler)
+       
        violinplot.m (Bastian Bechtold)
 
  AnalysisPt1_Fitting should be run first. The output is loaded in the
