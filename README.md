@@ -16,7 +16,7 @@ Listing of the code dependencies for the analysis of Quantitative Phase
  AnalysisPt1_Fitting should be run first. The output is loaded in the
    beginning of AnalysisPt2_Tracking.
 
- Sample Data available on Zenodo.
+ Sample Data available on Zenodo: 10.5281/zenodo.15866526
  
  List of individual .m files and their MATLAB toolbox dependencies
 
