@@ -5,6 +5,8 @@ All rights reserved.
 
 Purpose: Extract the shape and refractive index difference of droplets from quantitative phase images (QPI)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16287552.svg)](https://doi.org/10.5281/zenodo.16287552)
+
 Listing of the code dependencies for the analysis of Quantitative Phase
    Imaging (QPI) images of biomolecular condensates. All code written by Patrick M McCall except:
    
@@ -57,5 +59,3 @@ Listing of the code dependencies for the analysis of Quantitative Phase
             - No further dependencies
         - violinplot.m (Bastian Bechtold)     
            -> Make pretty violin plot.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16287552.svg)](https://doi.org/10.5281/zenodo.16287552)
