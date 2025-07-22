@@ -57,3 +57,5 @@ Listing of the code dependencies for the analysis of Quantitative Phase
             - No further dependencies
         - violinplot.m (Bastian Bechtold)     
            -> Make pretty violin plot.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16287552.svg)](https://doi.org/10.5281/zenodo.16287552)
